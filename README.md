@@ -7,7 +7,7 @@ learning models for LEIDSA's **Loto - Loto Mas - Super Mas** lottery draw
 This repo reads directly from Supabase (Postgres) — it does not scrape or
 store its own copy of the data. The data pipeline that populates that
 database lives in a separate repo:
-[leidsa-supermas-pipeline](https://github.com/jorgedoiany/dominican-film-data-pipeline.git).
+[leidsa-supermas-pipeline](https://github.com/jorgedoiany/leidsa-supermas-pipeline.git).
 
 ## Structure
 
